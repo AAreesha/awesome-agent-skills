@@ -4,6 +4,7 @@ Hand-curated weekly roundups of agent skills. The living master list stays in th
 
 | Edition | Date | Theme | Added | File |
 | --- | --- | --- | :-: | --- |
+| 07 | 2026-11-16 | Measured, not guessed | 8 | [2026-11-16.md](2026-11-16.md) |
 | 06 | 2026-11-09 | Teach and take apart | 9 | [2026-11-09.md](2026-11-09.md) |
 | 05 | 2026-11-02 | Show your work | 8 | [2026-11-02.md](2026-11-02.md) |
 | 04 | 2026-10-26 | Checks and balances | 8 | [2026-10-26.md](2026-10-26.md) |
